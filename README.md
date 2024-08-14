@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Amnanpratap
+- 👋 Hi, I’m @Amanpratap
+- 
 - 👀 I’m interested in ...App development and Web developement.
 - 🌱 I’m currently learning ...java and web development.
 - 💞️ I’m looking to collaborate on ...
